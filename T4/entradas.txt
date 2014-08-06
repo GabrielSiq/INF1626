@@ -1,0 +1,18 @@
+an
+$qa1q1$q1a1q11$q11a1qf#a1a1a1(aaa) [Aceita]
+aMbN, n>0 
+$qa1q$qa11q1$q1a11qf$qfa11q1#a1a11a11(abb) [Aceita]
+$qa1q$qa11q1$q1a11qf$qfa11q1#a11a11a11a11(bbbb) [Aceita]
+$qa1q$qa11q1$q1a11qf$qfa11q1#a11a1a11a11 (babb) [Rejeita]
+$qa1q$qa11q1$q1a11qf$qfa11q1#a1a1a1 (aaa) [Rejeita]
+
+
+w {a,b}* cada “a” de w é imediatamente seguido de, no mínimo dois “b´s” 
+
+$qa11q1$q1a11q1$q1a1q11$q11a11q111$q111a11qf$qfa11qf$q1111a1q1111$q1111a11q111$qfa1q1111#a11a11a1a11a11a11(bbabbb) [Aceitou]
+$qa11q1$q1a11q1$q1a1q11$q11a11q111$q111a11qf$qfa11qf$q1111a1q1111$q1111a11q111$qfa1q1111#a1a11a11 (abb)[Aceitou]
+$qa11q1$q1a11q1$q1a1q11$q11a11q111$q111a11qf$qfa11qf$q1111a1q1111$q1111a11q111$qfa1q1111#a1a11 (ab)[Rejeitou]
+$qa11q1$q1a11q1$q1a1q11$q11a11q111$q111a11qf$qfa11qf$q1111a1q1111$q1111a11q111$qfa1q1111#a1a11a11a11 (abbb) [Aceitou]
+$qa11q1$q1a11q1$q1a1q11$q11a11q111$q111a11qf$qfa11qf$q1111a1q1111$q1111a11q111$qfa1q1111#a11a11a11a1a11a11 (bbbabb) [Aceitou]
+
+
